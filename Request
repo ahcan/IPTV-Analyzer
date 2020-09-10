@@ -1,2 +1,3 @@
-iptables-devle
+iptables-dev #ubuntu
+iptables-devel #centos
 perl-ExtUtils-MakeMaker.noarch 0:6.68-3.el7
